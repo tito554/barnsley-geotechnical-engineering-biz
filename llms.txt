@@ -1,0 +1,51 @@
+# Geotechnical Engineering — Barnsley
+
+> Geotechnical engineering services in Barnsley, United Kingdom.
+
+## Services
+- [Anchors](https://barnsley.geotechnical-engineering.biz/anchors/)
+- [Atterberg Limits](https://barnsley.geotechnical-engineering.biz/atterberg-limits/)
+- [Cbr Road](https://barnsley.geotechnical-engineering.biz/cbr-road/)
+- [Cpt Test](https://barnsley.geotechnical-engineering.biz/cpt-test/)
+- [Deep Excavations](https://barnsley.geotechnical-engineering.biz/deep-excavations/)
+- [Excavation Monitoring](https://barnsley.geotechnical-engineering.biz/excavation-monitoring/)
+- [Excavations](https://barnsley.geotechnical-engineering.biz/excavations/)
+- [Flexible Pavement](https://barnsley.geotechnical-engineering.biz/flexible-pavement/)
+- [Footings](https://barnsley.geotechnical-engineering.biz/footings/)
+- [Foundations](https://barnsley.geotechnical-engineering.biz/foundations/)
+- [Grain Size](https://barnsley.geotechnical-engineering.biz/grain-size/)
+- [Ground Improvement](https://barnsley.geotechnical-engineering.biz/ground-improvement/)
+- [Grouting](https://barnsley.geotechnical-engineering.biz/grouting/)
+- [In Situ Permeability](https://barnsley.geotechnical-engineering.biz/in-situ-permeability/)
+- [Investigation](https://barnsley.geotechnical-engineering.biz/investigation/)
+- [Lab In Situ](https://barnsley.geotechnical-engineering.biz/lab-in-situ/)
+- [Laboratory](https://barnsley.geotechnical-engineering.biz/laboratory/)
+- [Liquefaction](https://barnsley.geotechnical-engineering.biz/liquefaction/)
+- [Masw](https://barnsley.geotechnical-engineering.biz/masw/)
+- [Mat Foundations](https://barnsley.geotechnical-engineering.biz/mat-foundations/)
+- [Piles](https://barnsley.geotechnical-engineering.biz/piles/)
+- [Proctor Tests](https://barnsley.geotechnical-engineering.biz/proctor-tests/)
+- [Resistivity](https://barnsley.geotechnical-engineering.biz/resistivity/)
+- [Retaining Walls](https://barnsley.geotechnical-engineering.biz/retaining-walls/)
+- [Rigid Pavement](https://barnsley.geotechnical-engineering.biz/rigid-pavement/)
+- [Road Geotechnics](https://barnsley.geotechnical-engineering.biz/road-geotechnics/)
+- [Sand Cone Density](https://barnsley.geotechnical-engineering.biz/sand-cone-density/)
+- [Seismic](https://barnsley.geotechnical-engineering.biz/seismic/)
+- [Seismic Isolation](https://barnsley.geotechnical-engineering.biz/seismic-isolation/)
+- [Seismic Microzonation](https://barnsley.geotechnical-engineering.biz/seismic-microzonation/)
+- [Seismic Refraction](https://barnsley.geotechnical-engineering.biz/seismic-refraction/)
+- [Slope Stability](https://barnsley.geotechnical-engineering.biz/slope-stability/)
+- [Slopes](https://barnsley.geotechnical-engineering.biz/slopes/)
+- [Soft Ground Tunnels](https://barnsley.geotechnical-engineering.biz/soft-ground-tunnels/)
+- [Spt Drilling](https://barnsley.geotechnical-engineering.biz/spt-drilling/)
+- [Stone Columns](https://barnsley.geotechnical-engineering.biz/stone-columns/)
+- [Test Pits](https://barnsley.geotechnical-engineering.biz/test-pits/)
+- [Triaxial](https://barnsley.geotechnical-engineering.biz/triaxial/)
+- [Vibrocompaction](https://barnsley.geotechnical-engineering.biz/vibrocompaction/)
+
+## Contact
+- Website: https://barnsley.geotechnical-engineering.biz/
+
+## About
+This site provides geotechnical engineering services in Barnsley, United Kingdom.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
